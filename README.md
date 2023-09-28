@@ -1,2 +1,3 @@
 # Shubh
-This is my first repo
+This is my first repo.
+Author - Shubh Goel
